@@ -4,3 +4,11 @@
 *:after {
   box-sizing: border-box;
 }
+html{
+  background-image: url(/public/images/site/small_check.jpg);
+}
+body{
+  background-color: white;
+  border: solid rgb(111, 181, 228);
+  
+}
